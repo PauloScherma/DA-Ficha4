@@ -1,0 +1,10 @@
+C:\Users\paulo\source\repos\GereClientes\GereClientes\obj\Debug\GereClientes.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\GereClientes\GereClientes\obj\Debug\GereClientes.Form1.resources
+C:\Users\paulo\source\repos\GereClientes\GereClientes\obj\Debug\GereClientes.Properties.Resources.resources
+C:\Users\paulo\source\repos\GereClientes\GereClientes\obj\Debug\GereClientes.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\GereClientes\GereClientes\obj\Debug\GereClientes.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\GereClientes\GereClientes\bin\Debug\GereClientes.exe.config
+C:\Users\paulo\source\repos\GereClientes\GereClientes\bin\Debug\GereClientes.exe
+C:\Users\paulo\source\repos\GereClientes\GereClientes\bin\Debug\GereClientes.pdb
+C:\Users\paulo\source\repos\GereClientes\GereClientes\obj\Debug\GereClientes.exe
+C:\Users\paulo\source\repos\GereClientes\GereClientes\obj\Debug\GereClientes.pdb
