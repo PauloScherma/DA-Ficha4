@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|solutionrelative:gereclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|c:\\users\\paulo\\source\\repos\\gereclientes\\gereclientes\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|solutionrelative:gereclientes\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|c:\\users\\paulo\\source\\repos\\gereclientes\\gereclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|solutionrelative:gereclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|c:\\users\\paulo\\source\\repos\\gereclientes\\gereclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|C:\\Users\\paulo\\source\\repos\\GereClientes\\gereclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|solutionrelative:gereclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|c:\\users\\paulo\\source\\repos\\gereclientes\\gereclientes\\linhadecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|solutionrelative:gereclientes\\linhadecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|C:\\Users\\paulo\\source\\repos\\GereClientes\\gereclientes\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|solutionrelative:gereclientes\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|C:\\Users\\paulo\\source\\repos\\GereClientes\\gereclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|solutionrelative:gereclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|C:\\Users\\paulo\\source\\repos\\GereClientes\\gereclientes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E9C8D9-0566-48E9-9973-801C611005C5}|GereClientes\\GereClientes.csproj|solutionrelative:gereclientes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Form1.cs",
               "RelativeDocumentMoniker": "GereClientes\\Form1.cs",
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "GereClientes\\Form1.cs",
               "ToolTip": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Form1.cs",
               "RelativeToolTip": "GereClientes\\Form1.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAADgv8gAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T10:03:11.954Z",
               "IsPinned": true,
@@ -66,12 +66,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Cliente.cs",
+              "RelativeDocumentMoniker": "GereClientes\\Cliente.cs",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Cliente.cs",
+              "RelativeToolTip": "GereClientes\\Cliente.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:24:29.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Compra.cs",
               "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Compra.cs",
               "RelativeDocumentMoniker": "GereClientes\\Compra.cs",
               "ToolTip": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Compra.cs",
               "RelativeToolTip": "GereClientes\\Compra.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T10:29:54.712Z",
               "EditorCaption": ""
@@ -79,28 +92,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LinhaDeCompra.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\LinhaDeCompra.cs",
-              "RelativeDocumentMoniker": "GereClientes\\LinhaDeCompra.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\LinhaDeCompra.cs",
-              "RelativeToolTip": "GereClientes\\LinhaDeCompra.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Item.cs",
+              "RelativeDocumentMoniker": "GereClientes\\Item.cs",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Item.cs",
+              "RelativeToolTip": "GereClientes\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T12:05:00.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Cliente.cs",
-              "RelativeDocumentMoniker": "GereClientes\\Cliente.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\GereClientes\\GereClientes\\Cliente.cs",
-              "RelativeToolTip": "GereClientes\\Cliente.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:24:29.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T12:05:00.749Z"
             }
           ]
         }

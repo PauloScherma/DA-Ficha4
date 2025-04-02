@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace GereClientes
 {
-    class LinhaDeCompra
+    public class Item
     {
         public string descricao;
         public int valor;
 
-        public LinhaDeCompra(string descricao, int valor)
+        public Item(string descricao, int valor)
         {
             this.descricao = descricao;
             this.valor = valor;

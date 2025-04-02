@@ -6,15 +6,28 @@ using System.Threading.Tasks;
 
 namespace GereClientes
 {
-    class Compra 
+     class Compra 
     {
-        public DateTime dataAgora;
-        public int totalCompra;
+        public DateTime dataAgora { get; }
+        public int totalCompra { get; set;}
         
-        public Compra(DateTime dataAgora, int totalCompra)
+        public List<Item> itens = new List<Item>();
+        public Compra()
         {
-            this.dataAgora = dataAgora;
-            this.totalCompra = totalCompra;
+            this.dataAgora = DateTime.Now;
+            this.totalCompra = 0;
+            this.itens = new List<Item>();
+        }
+
+        public void addItem(Item item)
+        {
+            this.itens.Add(item);
+            this.totalCompra += item.valor;
+        }
+        public void removeItem(Item item)
+        {
+            this.itens.Remove(item);
+            this.totalCompra -= item.valor;
         }
         public override string ToString()
         {

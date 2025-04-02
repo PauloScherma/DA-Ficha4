@@ -314,6 +314,7 @@
             this.listBoxCompra.Name = "listBoxCompra";
             this.listBoxCompra.Size = new System.Drawing.Size(164, 180);
             this.listBoxCompra.TabIndex = 30;
+            this.listBoxCompra.SelectedIndexChanged += new System.EventHandler(this.listBoxCompra_SelectedIndexChanged_1);
             // 
             // listBoxLinhasCompra
             // 
@@ -328,7 +329,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(889, 557);
+            this.ClientSize = new System.Drawing.Size(904, 557);
             this.Controls.Add(this.listBoxLinhasCompra);
             this.Controls.Add(this.listBoxCompra);
             this.Controls.Add(this.listBoxCliente);
